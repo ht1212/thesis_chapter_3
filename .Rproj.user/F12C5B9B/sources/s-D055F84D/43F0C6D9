@@ -1,0 +1,24 @@
+{
+    "id": "43F0C6D9",
+    "path": "~/GitHub/thesis_chapter_3/s2_phd_fitting.R",
+    "project_path": "s2_phd_fitting.R",
+    "type": "r_source",
+    "hash": "3268789912",
+    "contents": "",
+    "dirty": false,
+    "created": 1652961982894.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "13,28",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1652962030,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652962030593,
+    "read_only": false,
+    "read_only_alternatives": []
+}

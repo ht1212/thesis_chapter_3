@@ -1,0 +1,25 @@
+{
+    "id": "B20AC260",
+    "path": "~/GitHub/thesis_chapter_3/s1_load_data.R",
+    "project_path": "s1_load_data.R",
+    "type": "r_source",
+    "hash": "3423207839",
+    "contents": "",
+    "dirty": false,
+    "created": 1652961656450.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "13,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1652961973,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652961973139,
+    "read_only": false,
+    "read_only_alternatives": []
+}
