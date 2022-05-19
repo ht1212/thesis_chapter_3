@@ -1,4 +1,8 @@
-# thesis_chapter_3
+# Fitting and validating the protective efficacy profile of Sulfadoxine-Pyrimethamine plus Amodiaquine against clinical malaria when used in Seasonal Malaria Chemoprevention 
+
+:umbrella: ## Thesis Chapter 3 :umbrella:
+
+
 
 Code associated with the fitting of the SP+AQ efficacy profile in thesis Chapter 3  
 
